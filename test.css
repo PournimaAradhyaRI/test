@@ -1,0 +1,114 @@
+.header{
+    padding-left: 14%;
+    padding-right: 13%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    content: "";
+    display: table;
+    clear: both;
+    width: 100%;
+}
+
+/* header */
+
+.hc1{
+    float: left;
+    width: 20%;
+    padding: 10px;
+}
+.hc2{
+    float: left;
+    width: 50%;
+    padding-top: 10px;
+}
+.hc3{
+    float: left;
+    width: 25%;
+    padding: 10px;
+}
+
+.but{
+    border: none;
+    height: 50px;
+    width: 110px;
+    background-color: rgb(250, 250, 250);
+}
+a{
+    border: none;
+}
+.l{
+    list-style-type: none;
+    float: left;
+}
+
+/* home */
+
+.sh1{
+    float: left;
+    width: 50%;
+    padding-top: 10px;
+}
+
+.sh2{
+    float: left;
+    width: 50%;
+    padding-top: 10px;
+}
+
+/*  our service */
+
+.sos{
+    margin: 1%;
+    float: left;
+    width: 23%;
+    height: 0%;
+    border: 1px solid rgba(0, 0, 0, 0.301);
+    background-color: aliceblue;
+}
+
+.h{
+    margin-top: 0px;
+    height: 35px;
+    padding: 10px;
+    background-color:#2180C4;
+    color: aliceblue;
+    text-align: center;
+    
+}
+
+.im{
+   height: 121px;
+   width: 121px;
+}
+
+.tx{
+    text-align: center;
+    padding: 10px;
+}
+
+/* footer */
+
+#ful{
+    list-style: none;
+}
+
+#ful li:before{
+    content: "\2023";
+}
+
+.fot{
+    float: left;
+    width: 25%;
+    padding: 10px;
+    color: #8E8E8E;
+}
+
+.fh{
+    background-color: #656565;
+    color: rgb(224, 224, 224);
+    text-align: center;
+    height: 30px;
+    width: 230px;
+    padding: 6px;
+    box-shadow: 1px 5px #2c2c2c;
+}
